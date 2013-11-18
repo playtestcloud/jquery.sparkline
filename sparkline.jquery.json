@@ -12,6 +12,7 @@
         "ui",
         "vml"
     ],
+    "banner": "/* jquery.sparkline 2.1.2 - http://omnipotent.net/jquery.sparkline/ \n Licensed under the New BSD License - see above site for details */\n",
     "version": "2.1.2",
     "author": {
         "name": "Gareth Watts",

@@ -2,3 +2,6 @@
 .*.sw[a-z]
 *.un~
 Session.vim
+
+# ignore node modules
+node_modules
