@@ -1,6 +1,12 @@
 jQuery Sparkline Plugin ChangeLog
 http://omnipotent.net/jquery.sparkline/
 
+2.1.3
+
++ Migrated from Makefile to Grunt for building everything in the /dist/ directory
++ Checking in everything in the /dist/ directory for ease of use with Bower.
+
+
 2.1.x ???
 
 + Fix for IE <= 9 for loading CSS when 31 stylesheets are already present

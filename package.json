@@ -1,7 +1,7 @@
 {
   "name": "Sparkline",
   "description": "Generates inline sparkline charts from data supplied either to the method or inline in HTML.",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "homepage": "https://github.com/gwatts/jquery.sparkline",
   "keywords": [
     "sparkline",

@@ -8,14 +8,11 @@ module.exports = function (grunt) {
   
   // if you simply run "grunt" these default tasks will execute, IN THE ORDER THEY APPEAR!
   grunt.registerTask('default', ["concat", "uglify"]);
-  grunt.registerTask('lint', ["jshint"]); // does not pass, and I'm not gunna make it
+  grunt.registerTask('lint', ["jshint"]); // does not pass, and for now, I'm not gunna make it pass.
   
   grunt.initConfig({
     /* a pointer to an external package.json file */
-    //pkg: '<json:package.json>',
     pkg: grunt.file.readJSON('sparkline.jquery.json'),
-    
-    // ##################### JAVASCRIPT ############################ //
     
     /* http://www.jshint.com/options/ */
     /* NOTE: rules in the source files will override these settings! */
