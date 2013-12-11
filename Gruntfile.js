@@ -12,7 +12,7 @@ module.exports = function (grunt) {
   
   grunt.initConfig({
     /* a pointer to an external package.json file */
-    pkg: grunt.file.readJSON('sparkline.jquery.json'),
+    pkg: grunt.file.readJSON('package.json'),
     
     /* http://www.jshint.com/options/ */
     /* NOTE: rules in the source files will override these settings! */
