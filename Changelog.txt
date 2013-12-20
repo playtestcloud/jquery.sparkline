@@ -5,6 +5,7 @@ http://omnipotent.net/jquery.sparkline/
 
 + Migrated from Makefile to Grunt for building everything in the /dist/ directory
 + Checking in everything in the /dist/ directory for ease of use with Bower.
++ Added bower.json
 
 
 2.1.x ???
